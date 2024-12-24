@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm tazik, a passionate developer specializing in web amd ml/ai. I love building backend for interesting projects and contributing to open source.
+I'm tazik, a passionate developer specializing in web and ml/ai. I love building backend for interesting projects and contributing to open source.
 
 - 🔭 I’m currently working on own ai and chibikk for it
 - 🌱 I’m learning torch....
